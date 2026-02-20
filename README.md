@@ -1,0 +1,1 @@
+Sum Strike is a fast-paced math arcade game where your streak is all that matters. Upgrade your mental math skills as the numbers get faster and faster. Make one wrong move and your streak will be reset. How long can you last in the strike?
